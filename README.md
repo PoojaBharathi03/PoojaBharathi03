@@ -2,13 +2,13 @@
 <h3 align="center">A Passionate Data Analyst Enthusiast!</h3>
 
 
-- :woman_technologist: I am a Data enthusiast and I want to start my careeer as a Data Analyst.
+- :woman_technologist: I am a Data enthusiast and a self taught Data Analyst.
 
 - 🌱 I’m currently learning ****Data Analytics, Data Science and Machine Learning.****
 
 - 🤝 I’m looking for help with **Data Analysis Projects**
 
-- 👯 I am a newbie and started my journey into Open Source world !
+- 👯 I am a newbie and started my journey into Open Source world recently!
 
 - 💬 Ask me about **Python, MySql, Data Analysis**
 
