@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pooja Bharathi!</h1>
-<h3 align="center">A Passionate Data Analyst Enthusiast!</h3>
+<h3>A Passionate Data Analyst Enthusiast!</h3>
 
 
 - :woman_technologist: I am a Data enthusiast and a self taught Data Analyst.
